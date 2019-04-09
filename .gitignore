@@ -1,3 +1,6 @@
+# IX developer 2.40 sp1
+# Not all rows are needed, but why waste time?
+
 # Packages #
 ############
 # it's better to unpack these files and commit the raw source
